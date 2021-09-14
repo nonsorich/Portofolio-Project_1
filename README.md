@@ -10,6 +10,6 @@ This is a breakdown of every shooting incident that occurred in NYC going back t
  
  <h3>The Key Insights Extracted by Query Executed</h3>
  
- *Calculating the total of deaths.
- *Grouping the victim's age group by the number of deaths per victim's age group.
- *Calculating the percentage of number of deaths by victim's age group.
+ <li>Calculating the total of deaths.</li>
+ <li>Grouping the victim's age group by the number of deaths per victim's age group.</li>
+ <li>Calculating the percentage of number of deaths by victim's age group.</li>
