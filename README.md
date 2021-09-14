@@ -2,7 +2,7 @@
  
  This repository contains my analysis of NYPD Shooting Incident Dataset.
 
- <h1>Introduction</h1>
+ <h2>Introduction</h2>
  
  List of every shooting incident that occurred in NYC going back to 2006 through the end of 2020.
 
