@@ -1,4 +1,4 @@
- <h1>An analysis of NYPD Shooting Incident Dataset</h1>
+ <h1>An Analysis of NYPD Shooting Incident Dataset</h1>
  
  This repository contains my analysis of NYPD Shooting Incident Dataset.
 
